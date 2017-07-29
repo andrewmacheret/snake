@@ -16,7 +16,7 @@ class Snake {
   }
 
   reset() {
-    this.apple = {x: Math.floor(this.width/2), y: Math.floor(this.height / 4)};
+    this.apple = {x: Math.floor(this.width/2), y: Math.floor(this.height / 4) - 1};
     this.board = Array.from({length: this.height}, () => Array.from({length: this.width}, () => false));
     this.snake = {
       positions: [
