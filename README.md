@@ -1,9 +1,9 @@
 # snake
 
-Snake for Node.js using [https://www.npmjs.com/package/blessed](blessed).
+Snake for Node.js using [blessed](https://www.npmjs.com/package/blessed).
 
 Prereqs:
- * [https://nodejs.org](Node.js)
+ * [Node.js](https://nodejs.org)
 
 To run:
 
