@@ -1,0 +1,16 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "snake for node.js using blessed api",
+  "main": "snake.js",
+  "dependencies": {
+    "blessed": "^0.1.81"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Macheret <andrew.macheret@gmail.com>",
+  "repository": "git@github.com:andrewmacheret/snake.git",
+  "license": "MIT"
+}
